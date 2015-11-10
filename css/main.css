@@ -1,0 +1,5 @@
+/* Inserta tu CSS aqui */
+*{
+font-family: Oswald;
+	outline: solid rgba(255,0,0,0.4) 1px;
+}
